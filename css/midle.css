@@ -16256,16 +16256,18 @@ ul.c-form-input-list.half-w li {
     padding-bottom: 20px;
     padding-top: 20px;
 }
-
+.temp-emailbox form input{
+    outline: 0 !important;
+}
 .temp-emailbox {
     border-radius: 10px;
-    padding-top: 30px;
+    /* padding-top: 30px; */
     text-align: center;
-    padding-bottom: 30px;
-    border: 2px dashed #383b44;
-    border-image-source: url(images/border-box.png);
-    border-image-slice: 2;
-    border-image-repeat: round
+    /* padding-bottom: 30px; */
+    /* border: 2px dashed #383b44; */
+    /* border-image-source: url(images/border-box.png); */
+    /* border-image-slice: 2; */
+    /* border-image-repeat: round */
 }
 
 .temp-emailbox h1 {
