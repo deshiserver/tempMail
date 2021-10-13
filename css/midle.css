@@ -16256,9 +16256,11 @@ ul.c-form-input-list.half-w li {
     padding-bottom: 20px;
     padding-top: 20px;
 }
-.temp-emailbox form input{
+
+.temp-emailbox form input {
     outline: 0 !important;
 }
+
 .temp-emailbox {
     border-radius: 10px;
     /* padding-top: 30px; */
@@ -16267,7 +16269,8 @@ ul.c-form-input-list.half-w li {
     /* border: 2px dashed #383b44; */
     /* border-image-source: url(images/border-box.png); */
     /* border-image-slice: 2; */
-    /* border-image-repeat: round */
+    /* border-image-repeat: round; */
+    margin-left: 50px;
 }
 
 .temp-emailbox h1 {
@@ -16390,8 +16393,8 @@ ul.c-form-input-list.half-w li {
 
 .section-btn-header {
     background-color: #fff;
-    -webkit-box-shadow: 0 2px 4px rgba(34, 36, 43, .16);
-    box-shadow: 0 2px 4px rgba(34, 36, 43, .16);
+    /* -webkit-box-shadow: 0 2px 4px rgba(34, 36, 43, .16);
+    box-shadow: 0 2px 4px rgba(34, 36, 43, .16); */
     padding: 25px 0;
     position: relative;
     z-index: 100;

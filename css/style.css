@@ -2516,3 +2516,7 @@ html.dark .nuxt-progress-failed {
     justify-content: space-between !important;
     align-items: center !important;
 }
+.logo-form {
+    display: flex;
+    align-items: center;
+}
