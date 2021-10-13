@@ -14450,8 +14450,8 @@ a.text-dark:hover {
 }
 
 .bg-theme {
-    background-color: #00c497;
-    color: #fff
+    background-color: #17242b;
+    color: #fff;
 }
 
 .bg-theme svg {
@@ -14715,7 +14715,7 @@ main {
 }
 
 .inboxWarpMain .inbox-header {
-    background-color: #22242b;
+    background-color: #17242B;
     color: #fff;
     display: -webkit-box;
     display: -webkit-flex;
@@ -16320,7 +16320,7 @@ ul.c-form-input-list.half-w li {
 }
 
 .btn-rds.icon-btn.btn-l-gary.popover-qr {
-    background: #4B4B51;
+    background: #17242B;
 }
 
 .temp-emailbox .input-box-col .input-warp {

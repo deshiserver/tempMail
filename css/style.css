@@ -231,21 +231,20 @@ pre,
 samp {
     font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace
 }
-.s-sidebar{
+
+.s-sidebar {
     height: 100vh;
 }
-.header-btn a {
-    border: 1px solid #333;
-    padding: 15px 30px;
-    margin-right: 10px;
-    border-radius: 5px;
-}
-.header-menu{
+
+
+.header-menu {
     margin-left: 250px;
 }
-a{
+
+a {
     text-decoration: none !important;
 }
+
 audio,
 canvas,
 embed,
@@ -2516,7 +2515,47 @@ html.dark .nuxt-progress-failed {
     justify-content: space-between !important;
     align-items: center !important;
 }
+
 .logo-form {
     display: flex;
     align-items: center;
+}
+
+.btn-gray {
+    /* background-color: #f6f7f9; */
+    color: #fff !important;
+    border: 1px solid #17242B;
+    border-radius: 6px;
+    margin-left: 10px;
+    background: #17242B;
+    transition: .3s;
+}
+
+.btn-gray:hover {
+    background: #fff !important;
+    border: 1px solid #000;
+    color: #000;
+    transition: .3s;
+}
+
+.header-btn a {
+    padding: 15px 15px;
+    color: #fff;
+    border: 1px solid #17242B;
+    border-radius: 50%;
+    margin-right: 5px;
+    background: #17242B;
+    transition: .3s;
+}
+
+.header-btn a:hover {
+    background: none;
+    color: #000;
+    transition: .3s;
+}
+
+.ads {
+    border: 1px dashed;
+    padding:180px 0px;
+    text-align: center;
 }
