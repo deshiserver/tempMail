@@ -2559,3 +2559,6 @@ html.dark .nuxt-progress-failed {
     padding:180px 0px;
     text-align: center;
 }
+.div {
+    margin-left: 200px;
+}

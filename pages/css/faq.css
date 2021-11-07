@@ -1,0 +1,22 @@
+body {
+    background: #3333;
+}
+
+button:focus:not(:focus-visible) {
+    outline: 0;
+    border: 0 !important;
+    box-shadow: none !important;
+}
+
+.accordion-bg {
+
+    padding: 250px 0;
+}
+
+.accordion-button {
+    font-size: 21px;
+}
+
+.accordion-body {
+    font-size: 18px;
+}
